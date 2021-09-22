@@ -1,0 +1,109 @@
+{
+    "letters": [
+        {
+            "letter": "a",
+            "encrypted_letter": "1"
+        },
+        {
+            "letter": "b",
+            "encrypted_letter": "2"
+        },
+        {
+            "letter": "c",
+            "encrypted_letter": "3"
+        },
+        {
+            "letter": "d",
+            "encrypted_letter": "4"
+        },
+        {
+            "letter": "e",
+            "encrypted_letter": "5"
+        },
+        {
+            "letter": "f",
+            "encrypted_letter": "6"
+        },
+        {
+            "letter": "g",
+            "encrypted_letter": "7"
+        },
+        {
+            "letter": "h",
+            "encrypted_letter": "8"
+        },
+        {
+            "letter": "i",
+            "encrypted_letter": "9"
+        },
+        {
+            "letter": "j",
+            "encrypted_letter": "10"
+        },
+        {
+            "letter": "k",
+            "encrypted_letter": "11"
+        },
+        {
+            "letter": "l",
+            "encrypted_letter": "12"
+        },
+        {
+            "letter": "m",
+            "encrypted_letter": "13"
+        },
+        {
+            "letter": "n",
+            "encrypted_letter": "14"
+        },
+        {
+            "letter": "o",
+            "encrypted_letter": "15"
+        },
+        {
+            "letter": "p",
+            "encrypted_letter": "16"
+        },
+        {
+            "letter": "q",
+            "encrypted_letter": "17"
+        },
+        {
+            "letter": "r",
+            "encrypted_letter": "18"
+        },
+        {
+            "letter": "s",
+            "encrypted_letter": "19"
+        },
+        {
+            "letter": "t",
+            "encrypted_letter": "20"
+        },
+        {
+            "letter": "u",
+            "encrypted_letter": "21"
+        },
+        {
+            "letter": "v",
+            "encrypted_letter": "22"
+        },
+        {
+            "letter": "w",
+            "encrypted_letter": "23"
+        },
+        {
+            "letter": "x",
+            "encrypted_letter": "24"
+        },
+        {
+            "letter": "y",
+            "encrypted_letter": "25"
+        },
+        {
+            "letter": "z",
+            "encrypted_letter": "26"
+        }
+    ],
+    "seperator": "_"
+}
